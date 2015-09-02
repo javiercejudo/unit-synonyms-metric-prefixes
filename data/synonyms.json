@@ -1,41 +1,93 @@
 {
   "yotta": "yotta",
+  "Y": "yotta",
+  "short septillion": "yotta",
+  "long quadrillion": "yotta",
 
   "zetta": "zetta",
+  "Z": "zetta",
+  "short sextillion": "zetta",
+  "trilliard": "zetta",
 
   "exa": "exa",
+  "E": "exa",
+  "short quintillion": "exa",
+  "long trillion": "exa",
 
   "peta": "peta",
+  "P": "peta",
+  "short quadrillion": "peta",
+  "billiard": "peta",
 
   "tera": "tera",
+  "T": "tera",
+  "short trillion": "tera",
+  "long billion": "tera",
 
   "giga": "giga",
+  "G": "giga",
+  "short billion": "giga",
+  "milliard": "giga",
 
   "mega": "mega",
+  "M": "mega",
+  "million": "mega",
 
   "kilo": "kilo",
+  "k": "kilo",
+  "thousand": "kilo",
 
   "hecto": "hecto",
+  "h": "hecto",
+  "hundred": "hecto",
 
   "deca": "deca",
+  "da": "deca",
+  "ten": "deca",
 
   "deci": "deci",
+  "d": "deci",
+  "tenth": "deci",
 
   "centi": "centi",
+  "c": "centi",
+  "hundredth": "centi",
 
   "milli": "milli",
+  "m": "milli",
+  "thousandth": "milli",
 
   "micro": "micro",
+  "μ": "micro",
+  "millionth": "micro",
 
   "nano": "nano",
+  "n": "nano",
+  "short billionth": "nano",
+  "milliardth": "nano",
 
   "pico": "pico",
+  "p": "pico",
+  "short trillionth": "pico",
+  "long billionth": "pico",
 
   "femto": "femto",
+  "f": "femto",
+  "short quadrillionth": "femto",
+  "billiardth": "femto",
 
   "atto": "atto",
+  "a": "atto",
+  "short quintillionth": "atto",
+  "long trillionth": "atto",
 
   "zepto": "zepto",
+  "z": "zepto",
+  "short sextillionth": "zepto",
+  "trilliardth": "zepto",
 
-  "yocto": "yocto"
+  "yocto": "yocto",
+  "y": "yocto",
+  "short septillionth": "yocto",
+  "long quadrillionth": "yocto"
 }
