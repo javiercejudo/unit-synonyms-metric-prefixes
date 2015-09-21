@@ -28,5 +28,6 @@ synonyms['tenth']; // => deci
 
 ## Related projects
 
+- [linear-presets-metric-prefixes](https://github.com/javiercejudo/linear-presets-metric-prefixes): linear presets for metric prefixes.
 - [linear-presets](https://github.com/javiercejudo/linear-presets): linear presets for common units.
 - [linear-converter](https://github.com/javiercejudo/linear-converter): flexible linear converter.
